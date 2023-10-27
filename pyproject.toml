@@ -45,7 +45,7 @@ preview = true
 #     "docs/tutorials",
 # ]
 
-[tool.coverage.run]
-omit = [
-    "PyFlowQC/*",
-]
+#[tool.coverage.run]
+#omit = [
+#    "PyFlowQC/*",
+#]
