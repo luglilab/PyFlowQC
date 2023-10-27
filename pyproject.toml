@@ -4,7 +4,7 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "pyflowqc"
-authors = [{name = "Simone Puccio", email = "simone.puccio@cnr.it", role = "Maintainer"}]
+authors = [{name = "Simone Puccio", email = "simone.puccio@cnr.it"}]
 readme = "README.md"
 dynamic = ["version"]
 description = "PyFlowQC is a Python package for flow and mass cytometry quality control."
