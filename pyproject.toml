@@ -24,17 +24,17 @@ dependencies = [
 [project.urls]
 Home = "https://github.com/luglilab/PyFlowQC"
 
-# [project.optional-dependencies]
-# dev = [
-#     "pre-commit",
-#     "nox",
-#     "lndocs==0.2.0",
-# ]
-# test = [
-#     "pytest>=6.0",
-#     "pytest-cov",
-#     "nbproject_test >= 0.2.0",
-# ]
+ [project.optional-dependencies]
+ dev = [
+     "pre-commit",
+     "nox",
+     "lndocs==0.2.0",
+ ]
+ test = [
+     "pytest>=6.0",
+     "pytest-cov",
+     "nbproject_test >= 0.2.0",
+ ]
 
 [tool.black]
 preview = true
