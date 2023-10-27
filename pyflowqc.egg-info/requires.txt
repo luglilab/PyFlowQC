@@ -1,0 +1,11 @@
+numpy
+pandas
+scanpy
+anndata
+scikit-learn
+seaborn
+matplotlib
+FlowCytometryTools
+datashader
+readfcs>=1.1.0
+scipy
