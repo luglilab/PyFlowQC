@@ -21,8 +21,8 @@ dependencies = [
     "datashader"
 ]
 
-[project.urls]
-Home = "https://github.com/luglilab/PyFlowQC"
+#[project.urls]
+#Home = "https://github.com/luglilab/PyFlowQC"
 
  [project.optional-dependencies]
  dev = [
